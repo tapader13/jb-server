@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65aba11531643c85ecca5bcc"
+  },
+  "name": "All Jobs",
+  "href": "#",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aba13231643c85ecca5bce"
+  },
+  "name": "Remote",
+  "href": "#",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aba13e31643c85ecca5bd0"
+  },
+  "name": "On-Site",
+  "href": "#",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aba14831643c85ecca5bd2"
+  },
+  "name": "Full Time",
+  "href": "#",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aba15131643c85ecca5bd4"
+  },
+  "name": "Part Time",
+  "href": "#",
+  "__v": 0
+}]

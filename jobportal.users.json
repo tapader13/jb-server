@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65b1347117672fc5cd4f36c1"
+  },
+  "username": "minhaj",
+  "email": "minhajtapader0@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "Hw4vRXSlaa5f3K9THx3R2eTJkwxplzvBAtfT1mOcOVw=",
+      "subType": "00"
+    }
+  },
+  "salt": {
+    "$binary": {
+      "base64": "oSG6YOBqXRJt1/bvg0W1lA==",
+      "subType": "00"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b23ef8e04e56c5c2144886"
+  },
+  "username": "hanuamir",
+  "email": "mintapader0@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "HJ3coRtJq7LgPLffB3yRLD/aAvU8bDITgbynHEDt8s8=",
+      "subType": "00"
+    }
+  },
+  "salt": {
+    "$binary": {
+      "base64": "uO9UPqky7+5BzQBmAVkaLw==",
+      "subType": "00"
+    }
+  },
+  "__v": 0
+}]

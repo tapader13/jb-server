@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65ab9f6ce21576fef266dcb6"
+  },
+  "email": "minhajtapader0@gmail.com",
+  "text": "sob tik ace",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b0190564b59ae6ea475432"
+  },
+  "email": "minu@gmail.com",
+  "text": "vb xb",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b26acdd4e745b7a42690ee"
+  },
+  "email": "min@gmail.com",
+  "text": "uhkhj",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b26af2d4e745b7a42690f0"
+  },
+  "email": "min@gmail.com",
+  "text": "min",
+  "__v": 0
+}]

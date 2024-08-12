@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65abb42ac1a98f315183b4e3"
+  },
+  "value": "Any experience",
+  "label": "Any experience",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abb443c1a98f315183b4e5"
+  },
+  "value": "Internship",
+  "label": "Internship",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abb44dc1a98f315183b4e7"
+  },
+  "value": "Work remotely",
+  "label": "Work remotely",
+  "checked": false,
+  "__v": 0
+}]

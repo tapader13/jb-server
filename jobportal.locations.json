@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65abaa280e7f59f135d279e0"
+  },
+  "value": "Any",
+  "label": "Any Where",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abaa350e7f59f135d279e2"
+  },
+  "value": "Dhaka",
+  "label": "Dhaka, Bangladesh",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abaa3e0e7f59f135d279e4"
+  },
+  "value": "London",
+  "label": "London, United Kingdom",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abaa460e7f59f135d279e6"
+  },
+  "value": "Tokyo",
+  "label": "Tokyo, Japan",
+  "checked": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abaa500e7f59f135d279e8"
+  },
+  "value": "NewYork",
+  "label": "New York, USA",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abaa5a0e7f59f135d279ea"
+  },
+  "value": "Sydney",
+  "label": "Sydney, Australia",
+  "checked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abaa620e7f59f135d279ec"
+  },
+  "value": "Paris",
+  "label": "Paris, France",
+  "checked": false,
+  "__v": 0
+}]
